@@ -1,4 +1,5 @@
-package main.java.com.universitylibrary.models;
+package com.universitylibrary.models;
+
 
 public class Employee {
     private String username;

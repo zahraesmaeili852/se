@@ -1,4 +1,5 @@
-package main.java.com.universitylibrary.models;
+package com.universitylibrary.models;
+
 
 public class Book {
     private static int counter = 1;

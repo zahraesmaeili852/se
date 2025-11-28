@@ -1,4 +1,5 @@
-package main.java.com.universitylibrary.models;
+package com.universitylibrary.models;
+
 
 import java.util.ArrayList;
 import java.util.List;
